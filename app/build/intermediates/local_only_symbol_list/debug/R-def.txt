@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addItemButton
+id button
+id button_linear_layout
+id itemDeleteButton
+id itemModifyButton
+id itemName
+id itemNotes
+id recyclerView
+id sortByDateButton
+id sortByNameButton
+id text_linear_layout
+layout activity_add_item
+layout activity_main
+layout item_view
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Testi_viikolle_11
+xml backup_rules
+xml data_extraction_rules
